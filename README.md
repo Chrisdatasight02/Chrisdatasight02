@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chrisdatasight02
 - 👀 I’m a Blockchain developer and cloud Engineer
-- 🌱 I have worked in technology since 2014 building network architect and automation
+- 🌱 I have worked in technology since 2014 building Cloud-based Network Architectures and automation
 - 💞️ I’m a technology enthusiastic
 - 📫 You can reach me through my linkedin link and facebook account 
 - 😄 Pronouns: I’m dedicated and curious to learn new technologies
